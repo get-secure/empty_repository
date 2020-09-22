@@ -1,1 +1,1 @@
-# empty_repository
+# empty_repository example
