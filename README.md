@@ -1,5 +1,5 @@
-# empty_repository examplexx
-iii
+# empty_repository example
+
 # First section
 
 # Second Section
